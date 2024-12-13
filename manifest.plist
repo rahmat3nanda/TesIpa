@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-  <dict>
+<dict>
     <key>items</key>
     <array>
-      <dict>
-        <key>assets</key>
-        <array>
-          <dict>
-            <key>kind</key>
-            <string>software-package</string>
-            <key>url</key>
-            <string>https://studio.youapp.me/api/apps/download/YouApp-v1.6.616_140_2412131614-prod.ipa</string>
-          </dict>
-          <dict>
-            <key>kind</key>
-            <string>display-image</string>
-            <key>url</key>
-            <string>https://media-v1.cdn.youapp.ai/apple-icon.png</string>
-          </dict>
-          <dict>
-            <key>kind</key>
-            <string>full-size-image</string>
-            <key>url</key>
-            <string>https://media-v1.cdn.youapp.ai/apple-icon.png</string>
-          </dict>
-        </array>
-        <key>metadata</key>
         <dict>
-          <key>bundle-identifier</key>
-          <string>com.macaroon.youapp.ai</string>
-          <key>bundle-version</key>
-          <string>1.6.615</string>
-          <key>kind</key>
-          <string>software</string>
-          <key>platform-identifier</key>
-          <string>com.apple.platform.iphoneos</string>
-          <key>title</key>
-          <string>Runner</string>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://raw.githubusercontent.com/rahmat3nanda/TesIpa/main/youapp.ipa</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://media-v1.cdn.youapp.ai/apple-icon.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>https://media-v1.cdn.youapp.ai/apple-icon.png</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.macaroon.youapp.ai</string>
+                <key>bundle-version</key>
+                <string>1.6.615</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>platform-identifier</key>
+                <string>com.apple.platform.iphoneos</string>
+                <key>title</key>
+                <string>Runner</string>
+            </dict>
         </dict>
-      </dict>
     </array>
-  </dict>
+</dict>
 </plist>
